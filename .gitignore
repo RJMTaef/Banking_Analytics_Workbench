@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+dbt_packages/
+target/
+logs/
+*.duckdb
+data/warehouse/
+data/outputs/
+mlruns/
+.vscode/

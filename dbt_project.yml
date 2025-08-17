@@ -1,0 +1,15 @@
+name: 'baw'
+version: '1.0.0'
+config-version: 2
+profile: 'baw_duckdb'
+model-paths: ["models"]
+snapshot-paths: ["snapshots"]
+models:
+  +materialized: table
+  baw:
+    staging:
+      +schema: staging
+      +materialized: view
+    marts:
+      +schema: marts
+      +materialized: table

@@ -1,0 +1,12 @@
+version: 2
+sources:
+  - name: raw
+    schema: raw
+    tables:
+      - name: customers
+      - name: accounts
+      - name: branches
+      - name: transactions
+      - name: digital_sessions
+      - name: support_tickets
+      - name: atm_withdrawals
