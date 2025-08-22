@@ -5,23 +5,23 @@ A comprehensive, end-to-end **local** retail banking analytics platform built wi
 ## 🖼️ Dashboard Screenshots
 
 ### 🎯 **Main Dashboard Overview**
-![Dashboard Overview](screenshots/Screenshot%202025-08-22%20at%202.50.19%20AM.png)
+![Dashboard Overview](screenshots/01-dashboard.png)
 *Comprehensive overview of the Banking Analytics Workbench with enhanced KPI cards and modern glass-morphism design*
 
 ### 📊 **Key Performance Indicators**
-![KPI Cards](screenshots/Screenshot%202025-08-22%20at%202.50.26%20AM.png)
+![KPI Cards](screenshots/02-kpi.png)
 *Interactive KPI cards with trend indicators, hover effects, and beautiful gradient styling*
 
 ### 📈 **Transaction Analytics**
-![Transaction Analytics](screenshots/Screenshot%202025-08-22%20at%202.50.32%20AM.png)
+![Transaction Analytics](screenshots/03-transactions.png)
 *Multi-panel transaction visualization showing volume trends and transaction counts over time*
 
 ### 🏧 **ATM Cash Demand Forecast**
-![ATM Forecast](screenshots/Screenshot%202025-08-22%20at%202.50.36%20AM.png)
+![ATM Forecast](screenshots/04-atm.png)
 *3D surface visualization of ATM cash demand forecasting with interactive controls*
 
 ### 🕵️ **Fraud Detection & Risk Analysis**
-![Fraud Detection](screenshots/Screenshot%202025-08-22%20at%202.50.42%20AM.png)
+![Fraud Detection](screenshots/05-fraud.png)
 *Advanced fraud detection dashboard with risk scoring, alerts, and distribution analysis*
 
 ---
