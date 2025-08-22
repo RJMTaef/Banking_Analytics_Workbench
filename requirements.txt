@@ -1,12 +1,23 @@
-pandas==2.2.2
-numpy==1.26.4
-faker==25.8.0
-duckdb==1.0.0
-dbt-core==1.7.12
-dbt-duckdb==1.7.2
-plotly==5.22.0
-streamlit==1.36.0
-scikit-learn==1.4.2
-statsmodels==0.14.2
-mlflow==2.14.1
-pyyaml==6.0.1
+# Core data science packages
+pandas>=2.0.0
+numpy>=1.24.0,<2.0.0
+plotly>=5.15.0
+
+# Streamlit and web
+streamlit>=1.28.0
+
+# Database and data tools
+duckdb>=1.0.0
+dbt-core>=1.7.0
+dbt-duckdb>=1.7.0
+
+# Machine learning (optional for basic dashboard)
+scikit-learn>=1.3.0,<1.5.0
+
+# Utilities
+faker>=25.0.0
+pyyaml>=6.0.0
+
+# Optional packages (comment out if causing issues)
+# statsmodels>=0.14.0
+# mlflow>=2.8.0
