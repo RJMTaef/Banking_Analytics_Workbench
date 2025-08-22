@@ -2,6 +2,30 @@
 
 A comprehensive, end-to-end **local** retail banking analytics platform built with modern data stack technologies. This project demonstrates a complete banking analytics pipeline from data generation through machine learning insights, all running locally on synthetic data.
 
+## 🖼️ Dashboard Screenshots
+
+### 🎯 **Main Dashboard Overview**
+![Dashboard Overview](screenshots/Screenshot%202025-08-22%20at%202.50.19%20AM.png)
+*Comprehensive overview of the Banking Analytics Workbench with enhanced KPI cards and modern glass-morphism design*
+
+### 📊 **Key Performance Indicators**
+![KPI Cards](screenshots/Screenshot%202025-08-22%20at%202.50.26%20AM.png)
+*Interactive KPI cards with trend indicators, hover effects, and beautiful gradient styling*
+
+### 📈 **Transaction Analytics**
+![Transaction Analytics](screenshots/Screenshot%202025-08-22%20at%202.50.32%20AM.png)
+*Multi-panel transaction visualization showing volume trends and transaction counts over time*
+
+### 🏧 **ATM Cash Demand Forecast**
+![ATM Forecast](screenshots/Screenshot%202025-08-22%20at%202.50.36%20AM.png)
+*3D surface visualization of ATM cash demand forecasting with interactive controls*
+
+### 🕵️ **Fraud Detection & Risk Analysis**
+![Fraud Detection](screenshots/Screenshot%202025-08-22%20at%202.50.42%20AM.png)
+*Advanced fraud detection dashboard with risk scoring, alerts, and distribution analysis*
+
+---
+
 ## 🚀 Project Overview
 
 BAW is designed to showcase best practices in banking analytics by providing:
